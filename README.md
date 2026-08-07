@@ -1,5 +1,9 @@
 # The David and Goliath Slingshot
-### Black Hole Transit Networks and the Solar Isolation Hypothesis
+### Version 1.1 (August 2026)
+
+This revision corrects two tidal-force figures in Section 1.3 (found wrong by factors of ~26 and ~280 during adversarial re-review — the survivable-approach distances are farther out than v1.0 stated), and adds the adjacent work the first release failed to cite: Carroll-Nellenback et al. (2019) on settlement quasi-voids, arXiv:2210.10622 (2022) on black-hole slingshot travel, and arXiv:2510.00377 (2025) on constructed black-hole transit networks. Against that landscape, this paper's contribution is deliberately narrow: a quantified isolation metric — Earth's distance to the nearest known black hole against expected node separations — with pre-committed observational falsification criteria.
+
+## Black Hole Transit Networks and the Solar Isolation Hypothesis
 
 > "We are not shunned, ignored, or quarantined. We may simply be far from the road."
 
